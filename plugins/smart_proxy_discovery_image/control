@@ -1,4 +1,4 @@
-Source: ruby-smart-proxy-discovery
+Source: ruby-smart-proxy-discovery-image
 Section: ruby
 Priority: optional
 Maintainer: Greg Sutcliffe <greg.sutcliffe@gmail.com>
@@ -7,7 +7,7 @@ Standards-Version: 3.9.3
 Homepage: https://github.com/theforeman/smart_proxy_discovery
 XS-Ruby-Versions: all
 
-Package: ruby-smart-proxy-discovery
+Package: ruby-smart-proxy-discovery-image
 Architecture: all
 XB-Ruby-Versions: ${ruby:Versions}
 Depends: ${shlibs:Depends}, ${misc:Depends}, ruby | ruby-interpreter,

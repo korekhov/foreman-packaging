@@ -1,2 +1,2 @@
-debian/discovery.rb usr/share/foreman-proxy/bundler.d
-settings.d/discovery.yml etc/foreman-proxy/settings.d
+bundler.d/discovery_image.rb usr/share/foreman-proxy/bundler.d
+settings.d/discovery_image.yml etc/foreman-proxy/settings.d

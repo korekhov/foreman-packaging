@@ -1,6 +1,6 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: ruby-smart-proxy-discovery
-Source: https://github.com/theforeman/smart_proxy_discovery
+Upstream-Name: smart_proxy_discovery_image
+Source: https://github.com/theforeman/smart_proxy_discovery_image
 
 Files: *
 Copyright: 2014-2015 Red Hat Inc. <foreman-dev@googlegroups.com>
